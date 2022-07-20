@@ -9,6 +9,7 @@ public class Customer
     public string name { get; protected set; }
 
 
+
     protected Customer() { }
     public Customer(string firstName, string lastName)
     {
