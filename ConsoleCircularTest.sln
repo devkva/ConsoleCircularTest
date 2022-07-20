@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCircularTest", "ConsoleCircularTest\ConsoleCircularTest.csproj", "{982A0EC2-8A85-4B09-8B2E-1EAC58C9FA8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{982A0EC2-8A85-4B09-8B2E-1EAC58C9FA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982A0EC2-8A85-4B09-8B2E-1EAC58C9FA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982A0EC2-8A85-4B09-8B2E-1EAC58C9FA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982A0EC2-8A85-4B09-8B2E-1EAC58C9FA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82FB054E-2737-48C6-9535-126D765C69A7}
+	EndGlobalSection
+EndGlobal
